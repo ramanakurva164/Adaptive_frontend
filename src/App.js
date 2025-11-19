@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import './App.css';
 
-const API_BASE = 'http://adaptive-las-old-version.onrender.com';
+const API_BASE = 'https://adaptive-las-old-version.onrender.com';
 const PROBLEMS_PER_PAGE = 20;
 
 function App() {
